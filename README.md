@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e8b0f282-2143-429f-ad05-1ad8646e996b/deploy-status)](https://app.netlify.com/sites/react-dynamic-time-slider-demo/deploys)
+
 Quick demo to display the react-dynamic-time-slider package
 
 ## Available Scripts
