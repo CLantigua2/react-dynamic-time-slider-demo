@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quick demo to display the react-dynamic-time-slider package
 
 ## Available Scripts
 
