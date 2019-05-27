@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Slider from 'react-modern-time-slider'
+import Slider from 'react-dynamic-time-slider'
 import { container, install } from './Style'
 
 
