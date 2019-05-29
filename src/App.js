@@ -101,7 +101,6 @@ class App extends Component {
   render() {
     return (
       <div style={container}>
-        <img src="https://travis-ci.org/CLantigua2/react-modern-time-slider.svg?branch=master" alt="Travis-CI build status" title="Travis-CI build status" />
         <h1>React-Dynamic-Time-Slider</h1>
         <p style={install}>npm install react-dynamic-time-slider</p>
         <p style={install}>yarn add react-dynamic-time-slider</p>
